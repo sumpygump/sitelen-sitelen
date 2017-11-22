@@ -1,0 +1,10 @@
+<svg width="168" height="168" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        kipisi
+    </title>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M163.707 84.148c0 44.183-35.818 79.99-80 79.99-44.183 0-80-35.807-80-79.99 0-44.184 35.817-80.005 80-80.005 44.182 0 80 35.82 80 80.005" fill="#FFF" fill-rule="nonzero"/>
+        <path d="M163.707 84.148c0 44.183-35.818 79.99-80 79.99-44.183 0-80-35.807-80-79.99 0-44.184 35.817-80.005 80-80.005 44.182 0 80 35.82 80 80.005z" stroke="#231F20" stroke-width="6.667"/>
+        <path d="M83 26.485v112.666M15.924 82.817l47.113-42.249v84.484zm135.563 0l-47.114-42.249v84.484z" stroke="#231F20" stroke-width="5.333" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>
