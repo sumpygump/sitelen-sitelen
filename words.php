@@ -46,6 +46,7 @@ $words = array (
         'anpa' => 'bottom',
         'ijo' => 'thing',
         'jaki' => 'dirty',
+        'leko' => 'square',
         'linja' => 'long',
         'lipu' => 'flat',
         'lupa' => 'hole',
@@ -57,6 +58,7 @@ $words = array (
         'sin' => 'new',
         'supa' => 'surface',
         'suwi' => 'sweet',
+        'tonsi' => 'non-binary',
     ],
     'opposites' => [
         'pona' => 'good',
@@ -73,6 +75,7 @@ $words = array (
         'lete' => 'cold',
         'lili' => 'small',
         'suli' => 'big',
+        'jasima' => 'mirror',
     ],
     'act' => [
         'alasa' => 'gather',
@@ -82,8 +85,11 @@ $words = array (
         'ken' => 'able',
         'kepeken' => 'use',
         'kipisi' => 'cut',
+        'kokosila' => 'misspeak',
+        'lanpan' => 'catch',
         'lape' => 'sleep',
         'lukin' => 'see',
+        'misikeke' => 'medicine',
         'open' => 'open',
         'pali' => 'activity',
         'pana' => 'give',
@@ -94,9 +100,12 @@ $words = array (
     ],
     'idea' => [
         'ale' => 'everything',
+        'epiku' => 'epic',
         'kalama' => 'sound',
         'lon' => 'be, in',
+        'meso' => 'medium',
         'moli' => 'death',
+        'monsuta' => 'fear',
         'musi' => 'fun',
         'nasa' => 'silly',
         'nasin' => 'manner',
@@ -132,6 +141,8 @@ $words = array (
         'kala' => 'fish',
         'pipi' => 'bug',
         'waso' => 'bird',
+        'soko' => 'fungus',
+        'kijetesantakalu' => 'raccoon'
     ],
     'numbers' => [
         'nanpa' => 'number',
@@ -158,6 +169,7 @@ $words = array (
         'a' => 'ah!',
         'o' => 'hey!',
         'mu' => 'woof, meow',
+        'n' => 'hmm...',
     ],
 )
 
